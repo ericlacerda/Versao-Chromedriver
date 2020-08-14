@@ -1,0 +1,10 @@
+C:\Users\Eric Lacerda\source\repos\VersaoChromedriver\TesteConsulta\bin\Debug\TesteConsulta.exe.config
+C:\Users\Eric Lacerda\source\repos\VersaoChromedriver\TesteConsulta\bin\Debug\TesteConsulta.exe
+C:\Users\Eric Lacerda\source\repos\VersaoChromedriver\TesteConsulta\bin\Debug\TesteConsulta.pdb
+C:\Users\Eric Lacerda\source\repos\VersaoChromedriver\TesteConsulta\bin\Debug\VersaoChromedriver.dll
+C:\Users\Eric Lacerda\source\repos\VersaoChromedriver\TesteConsulta\bin\Debug\VersaoChromedriver.pdb
+C:\Users\Eric Lacerda\source\repos\VersaoChromedriver\TesteConsulta\obj\Debug\TesteConsulta.csprojAssemblyReference.cache
+C:\Users\Eric Lacerda\source\repos\VersaoChromedriver\TesteConsulta\obj\Debug\TesteConsulta.csproj.CoreCompileInputs.cache
+C:\Users\Eric Lacerda\source\repos\VersaoChromedriver\TesteConsulta\obj\Debug\TesteConsulta.csproj.CopyComplete
+C:\Users\Eric Lacerda\source\repos\VersaoChromedriver\TesteConsulta\obj\Debug\TesteConsulta.exe
+C:\Users\Eric Lacerda\source\repos\VersaoChromedriver\TesteConsulta\obj\Debug\TesteConsulta.pdb

@@ -1,0 +1,6 @@
+C:\Users\Eric Lacerda\source\repos\VersaoChromedriver\VersaoChromedriver\obj\Debug\VersaoChromedriver.csprojAssemblyReference.cache
+C:\Users\Eric Lacerda\source\repos\VersaoChromedriver\VersaoChromedriver\obj\Debug\VersaoChromedriver.csproj.CoreCompileInputs.cache
+C:\Users\Eric Lacerda\source\repos\VersaoChromedriver\VersaoChromedriver\bin\Debug\VersaoChromedriver.dll
+C:\Users\Eric Lacerda\source\repos\VersaoChromedriver\VersaoChromedriver\bin\Debug\VersaoChromedriver.pdb
+C:\Users\Eric Lacerda\source\repos\VersaoChromedriver\VersaoChromedriver\obj\Debug\VersaoChromedriver.dll
+C:\Users\Eric Lacerda\source\repos\VersaoChromedriver\VersaoChromedriver\obj\Debug\VersaoChromedriver.pdb
